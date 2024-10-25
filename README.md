@@ -73,8 +73,8 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldamd&count_private=true&theme=algolia&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldamd&count_private=true&theme=dark&include_all_commits=true)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldamd&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldamd&theme=dark)](https://git.io/streak-stats)
 
 <hr>
