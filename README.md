@@ -73,9 +73,3 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldamd&count_private=true&theme=dark&include_all_commits=true)
-
-<hr>
