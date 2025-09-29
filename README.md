@@ -1,6 +1,6 @@
 ![Header](./img/github-header-image.png)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-- I'm currently grinding through the pwn.college yellow belt, training for [CTFs](https://github.com/aldamd/CTF), and studying for the Security+
+- I'm currently grinding through the pwn.college yellow belt, competing in [CTFs](https://github.com/aldamd/CTF), and studying for the OSCP
 - Reach me at danaldam6@gmail.com
 
 <hr>
